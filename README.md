@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Software testing project](https://github.com/rohanchaudhari30/Software-Testing-project)
 
-- 🌱 I’m currently learning **Selenium, Postman and learn Selenium with java on Udemy**
+- 🌱 I’m currently learning **Selenium, Postman**
 
 - 📫 How to reach me **rohanchaudhari6@gmail.com**
 
